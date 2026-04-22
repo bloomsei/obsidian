@@ -1,2 +1,5 @@
-# obsidian
-Collection of my Obisidan notes
+# Notes
+
+Collection of my notes from bunch.
+
+
